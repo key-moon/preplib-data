@@ -1,0 +1,4 @@
+ubuntu@sha256:3093096ee188f8ff4531949b8f6115af4747ec1c58858c091c8cb4579c39cc4e '/lib/x86_64-linux-gnu/libresolv.so.2'
+ubuntu@sha256:4e4bc990609ed865e07afc8427c30ffdddca5153fd4e82c20d8f0783a291e241 '/lib/x86_64-linux-gnu/libresolv.so.2'
+ubuntu@sha256:1d7b639619bdca2d008eca2d5293e3c43ff84cbee597ff76de3b7a7de3e84956 '/lib/x86_64-linux-gnu/libresolv.so.2'
+ubuntu@sha256:2e70e9c81838224b5311970dbf7ed16802fbfe19e7a70b3cbfa3d7522aa285b4 '/lib/x86_64-linux-gnu/libresolv.so.2'

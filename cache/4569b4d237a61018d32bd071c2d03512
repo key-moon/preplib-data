@@ -1,0 +1,3 @@
+ubuntu@sha256:c57e8a329cd805f341ed7ee7fcc010761b29b9b8771b02a4f74fc794f1d7eac5 '/lib/x86_64-linux-gnu/libgnutls.so.30'
+ubuntu@sha256:141d7b0a56d0bd0b876765c20b48ec40e1843a09c1d0c79aa5efee82bee21244 '/lib/x86_64-linux-gnu/libgnutls.so.30'
+ubuntu@sha256:7c151867cb4361e2c3ef67292aa1381158e279ed5a938bf3cd94b0902cdf271c '/lib/x86_64-linux-gnu/libgnutls.so.30'

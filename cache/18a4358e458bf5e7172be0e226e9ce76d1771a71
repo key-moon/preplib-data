@@ -1,0 +1,5 @@
+ubuntu@sha256:ee0752679bed0fa6c877f24dc19a94abb62d3d212197431f4d92638a1613ff17 '/lib/x86_64-linux-gnu/libpamc.so.0'
+ubuntu@sha256:f0a63f53b736b9211a5313a7219f6cc012b7cf4194c7ce2248fac8162b56dceb '/lib/x86_64-linux-gnu/libpamc.so.0'
+ubuntu@sha256:17e4f3973ec125dcb7b97ed18da394a348b5ed7c1753d68fe6d20996184c198a '/lib/x86_64-linux-gnu/libpamc.so.0'
+ubuntu@sha256:6f07fc47ac37fd94fb0bf6b791aa4692f17f6a2fdfccd856d5a62043cf927be1 '/lib/x86_64-linux-gnu/libpamc.so.0'
+ubuntu@sha256:d1bb7a6d5328489e086a2b058d02155c1579575cc28e88b9715fe177493dc8a3 '/lib/x86_64-linux-gnu/libpamc.so.0'

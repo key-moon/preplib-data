@@ -1,0 +1,3 @@
+ubuntu@sha256:496a9a44971eb4ac7aa9a218867b7eec98bdef452246c037aa206c841b653e08 '/lib/x86_64-linux-gnu/libc.so.6'
+ubuntu@sha256:8d093e0651575a6437cc4a3d561f892a345d263aeac6156ef378fe6a4ccabd4c '/lib/x86_64-linux-gnu/libc.so.6'
+ubuntu@sha256:13f233a16be210b57907b98b0d927ceff7571df390701e14fe1f3901b2c4a4d7 '/lib/x86_64-linux-gnu/libc.so.6'

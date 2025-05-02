@@ -1,0 +1,5 @@
+ubuntu@sha256:cc61ae337f89ec395bf1d0b13c6f58ee834e3fc57b0de67694302bb637294300 '/lib/x86_64-linux-gnu/libnss_dns.so.2'
+ubuntu@sha256:39e6324487ef503ef36c38bf0b57935d639398ca0d6081fd20a17f90b956a7a4 '/lib/x86_64-linux-gnu/libnss_dns.so.2'
+ubuntu@sha256:48c35f3de33487442af224ed4aabac19fd9bfbd91ee90e9471d412706b20ba73 '/lib/x86_64-linux-gnu/libnss_dns.so.2'
+ubuntu@sha256:a4fab1802f08df089c4b2e0a1c8f1a06f573bd1775687d07fef4076d3a2e4900 '/lib/x86_64-linux-gnu/libnss_dns.so.2'
+ubuntu@sha256:bac6081102aae54ba4bcc714695b8f637e42768c7f376f374c428bab043ddc0f '/lib/x86_64-linux-gnu/libnss_dns.so.2'
