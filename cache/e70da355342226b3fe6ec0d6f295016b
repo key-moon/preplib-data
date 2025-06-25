@@ -1,0 +1,4 @@
+ubuntu@sha256:a819482773d99bbbb570626b6101fa37cd93a678581ee564e89feae903c95f20 '/lib/x86_64-linux-gnu/libblkid.so.1'
+ubuntu@sha256:958eaeb7e33e6c4f68f7fef69b35ca178c7f5fb0dd40db7b44a8b9eb692b9bc5 '/lib/x86_64-linux-gnu/libblkid.so.1'
+ubuntu@sha256:b89c04130e5f10e0958d16e6c17969d11b529072697d967be9045184d7da5258 '/lib/x86_64-linux-gnu/libblkid.so.1'
+ubuntu@sha256:e7def0d56013d50204d73bb588d99e0baa7d69ea1bc1157549b898eb67287612 '/lib/x86_64-linux-gnu/libblkid.so.1'
