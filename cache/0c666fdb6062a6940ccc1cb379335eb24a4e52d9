@@ -1,3 +1,4 @@
 ubuntu@sha256:84c334414e2bfdcae99509a6add166bbb4fa4041dc3fa6af08046a66fed3005f '/lib/x86_64-linux-gnu/libsystemd.so.0'
 ubuntu@sha256:a0ee7647e24c8494f1cf6b94f1a3cd127f423268293c25d924fbe18fd82db5a4 '/lib/x86_64-linux-gnu/libsystemd.so.0'
 ubuntu@sha256:ea1d854d38be82f54d39efe2c67000bed1b03348bcc2f3dc094f260855dff368 '/lib/x86_64-linux-gnu/libsystemd.so.0'
+ubuntu@sha256:382452f82a8bbd34443b2c727650af46aced0f94a44463c62a9848133ecb1aa8 '/lib/x86_64-linux-gnu/libsystemd.so.0'

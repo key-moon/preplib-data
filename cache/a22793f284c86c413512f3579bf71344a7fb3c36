@@ -1,0 +1,5 @@
+ubuntu@sha256:8e2324f2288c26e1393b63e680ee7844202391414dbd48497e9a4fd997cd3cbf '/lib/x86_64-linux-gnu/libgcrypt.so.20'
+ubuntu@sha256:c6674c44c6439673bf56536c1a15916639c47ea04c3d6296c5df938add67b54b '/lib/x86_64-linux-gnu/libgcrypt.so.20'
+ubuntu@sha256:ba1688fec34f66d8a7ff5b42e6971625d8232c72bf0e38ad06dda10cad157293 '/lib/x86_64-linux-gnu/libgcrypt.so.20'
+ubuntu@sha256:bbfd93a02a8487edb60f20316ebc966ddc7aa123c2e609185450b96971020097 '/lib/x86_64-linux-gnu/libgcrypt.so.20'
+ubuntu@sha256:f1b592e2de671105255a0c0b7b2f71a92b829403e8fc845e3482667ecc301780 '/lib/x86_64-linux-gnu/libgcrypt.so.20'

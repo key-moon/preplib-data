@@ -1,0 +1,5 @@
+ubuntu@sha256:18305429afa14ea462f810146ba44d4363ae76e4c8dfc38288cf73aa07485005 '/lib/x86_64-linux-gnu/libdbus-1.so.3'
+ubuntu@sha256:47effe29d7bed549fee8c63bd60120fa88785e72abfb2aeeccdda21f4eae67e4 '/lib/x86_64-linux-gnu/libdbus-1.so.3'
+ubuntu@sha256:abdc090336ba4503bd72d0961a4f3d45134900d9a793d3f0c06a64d2555fbab7 '/lib/x86_64-linux-gnu/libdbus-1.so.3'
+ubuntu@sha256:65e7041a861f38f71859da0c51bd0925f34b66d2ee0dbd882c9f4bb1ae0424a8 '/lib/x86_64-linux-gnu/libdbus-1.so.3'
+ubuntu@sha256:cbcc4eb9901bfa2ae38b4621315629941d22e7b2b2a7888db1c66cea88737736 '/lib/x86_64-linux-gnu/libdbus-1.so.3'
