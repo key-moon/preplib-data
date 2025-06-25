@@ -1,0 +1,3 @@
+ubuntu@sha256:63c8116d4105517e0776ec77997a213fcadcd49fb18e36e0e39e1df49736a2ab '/lib/x86_64-linux-gnu/libkmod.so.2'
+ubuntu@sha256:d1b24e9268fe9d0c431a3fc9f55faa730ab731cab9c309adcd979fc46d804e29 '/lib/x86_64-linux-gnu/libkmod.so.2'
+ubuntu@sha256:078d30763ae6697b7d55e49f4cb9e61407abd2137cafb5625f131aa47c1a47af '/lib/x86_64-linux-gnu/libkmod.so.2'

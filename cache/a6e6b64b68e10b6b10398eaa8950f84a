@@ -1,0 +1,3 @@
+ubuntu@sha256:89a6dbf6217382e455fbe57898df5ae7da8b79f193e43a739d92e6e1b693982b '/lib/x86_64-linux-gnu/libaudit.so.1'
+ubuntu@sha256:dfa784277cf14813cd6ecb23685ad7cd55eafed0e245011bc4fb793f0cd72f21 '/lib/x86_64-linux-gnu/libaudit.so.1'
+ubuntu@sha256:a2805f133be3af5aea8836ea5a896a340ad60312f574964fd51622296111f968 '/lib/x86_64-linux-gnu/libaudit.so.1'

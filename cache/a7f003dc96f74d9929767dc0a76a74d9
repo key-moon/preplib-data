@@ -1,0 +1,4 @@
+ubuntu@sha256:cfaece65edce8f8e0ca1ab785688e2e274ebbfd1b2b3c10768b91b0782783037 '/usr/lib/x86_64-linux-gnu/libapt-inst.so.1.5'
+ubuntu@sha256:296c2904734ac0f13f3ab7265eeafb2efc33f085eeb87c875d28c360cec18700 '/usr/lib/x86_64-linux-gnu/libapt-inst.so.1.5'
+ubuntu@sha256:9c1bf4cd8ef66095ab70378d4c41697899ae39a8d54b6cdebc491e36ad873003 '/usr/lib/x86_64-linux-gnu/libapt-inst.so.1.5'
+ubuntu@sha256:5545d04a2ad5de4b5a13a97ce603539b24679292a897f5db36038879b139c05f '/usr/lib/x86_64-linux-gnu/libapt-inst.so.1.5'

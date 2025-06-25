@@ -1,0 +1,3 @@
+ubuntu@sha256:296c2904734ac0f13f3ab7265eeafb2efc33f085eeb87c875d28c360cec18700 '/lib/x86_64-linux-gnu/libcrypto.so.1.0.0'
+ubuntu@sha256:9c1bf4cd8ef66095ab70378d4c41697899ae39a8d54b6cdebc491e36ad873003 '/lib/x86_64-linux-gnu/libcrypto.so.1.0.0'
+ubuntu@sha256:5545d04a2ad5de4b5a13a97ce603539b24679292a897f5db36038879b139c05f '/lib/x86_64-linux-gnu/libcrypto.so.1.0.0'

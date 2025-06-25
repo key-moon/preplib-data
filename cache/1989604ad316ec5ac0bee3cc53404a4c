@@ -1,0 +1,3 @@
+ubuntu@sha256:bb059eebe57a44a816584dda2d658818c8f00d74acfe68ab877e962063420dce '/lib/x86_64-linux-gnu/libapt-pkg.so.5.0'
+ubuntu@sha256:1e4b5a5f36a00e8de575633749e79e3fcd751f07379a32c43a98ebecf8f95e13 '/lib/x86_64-linux-gnu/libapt-pkg.so.5.0'
+ubuntu@sha256:41ef647cff01d0f5990f2e22b85c393052df387cf588a39950b66fb576b21cc6 '/lib/x86_64-linux-gnu/libapt-pkg.so.5.0'

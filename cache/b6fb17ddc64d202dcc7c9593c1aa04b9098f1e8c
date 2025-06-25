@@ -1,0 +1,3 @@
+ubuntu@sha256:887a7c706e88e4569494c9f470a53217a2705c9ddb3f8f75dc9062ece9e0bd36 '/lib/x86_64-linux-gnu/libdb-5.3.so'
+ubuntu@sha256:3eeb73c0d4cd3e1ca3615d128f11d21ebbc2b08ada0ae70d456abc275ce96a80 '/lib/x86_64-linux-gnu/libdb-5.3.so'
+ubuntu@sha256:a22cb6307a7f0c86fed5d608db75d326abcd857ff1ee78de2001602c0cddf27c '/lib/x86_64-linux-gnu/libdb-5.3.so'
