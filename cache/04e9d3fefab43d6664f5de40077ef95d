@@ -1,2 +1,3 @@
 ubuntu@sha256:04f510bf1f2528604dc2ff46b517dbdbb85c262d62eacc4aa4d3629783036096 '/lib/x86_64-linux-gnu/libm.so.6'
 ubuntu@sha256:dc17125eaac86538c57da886e494a34489122fb6a3ebb6411153d742594c2ddc '/lib/x86_64-linux-gnu/libm.so.6'
+ubuntu@sha256:dbdff34bb41cecdb07c79af373b44bb4c9ccba2520f014221fb95845f14bc6c1 '/lib/x86_64-linux-gnu/libm.so.6'
