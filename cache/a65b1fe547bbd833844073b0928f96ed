@@ -1,3 +1,4 @@
 ubuntu@sha256:6f63292a7444f9346bf6ec6816dd93029dae021ee00cabb564c440417519680c '/lib/x86_64-linux-gnu/libnss_files.so.2'
 ubuntu@sha256:08e2cd26ee66d0d46d6394df594f2877fc9b9381d9630a9ef5d86e27dfae9a95 '/lib/x86_64-linux-gnu/libnss_files.so.2'
 ubuntu@sha256:da5fdf346e5313bef2a3dd2476c0251d48103213a5e3a0cb3afbb8909f3cf50f '/lib/x86_64-linux-gnu/libnss_files.so.2'
+ubuntu@sha256:1f809e07a0402375e7b2ede95e4c43f5605a83c447d1a4ca9c9d3c4194440104 '/lib/x86_64-linux-gnu/libnss_files.so.2'

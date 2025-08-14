@@ -1,2 +1,3 @@
 ubuntu@sha256:88daed6fc14b38487406267600a6e5b238b45164768c7e648eab2d9f7555d52a '/lib/x86_64-linux-gnu/libnss_compat.so.2'
 ubuntu@sha256:b0cdf41048f0f36ebaae5a071a9dedba3c884dd08d7eaf6447c7974ee2d161ca '/lib/x86_64-linux-gnu/libnss_compat.so.2'
+ubuntu@sha256:f1a2f5377779859fcb03755dc9db7f8643332e5f47de46370186e7ff512cff05 '/lib/x86_64-linux-gnu/libnss_compat.so.2'
